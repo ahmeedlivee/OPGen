@@ -1,0 +1,16 @@
+{
+  "prefix": "!"
+  "status": "Ahmed XD"
+  "cooldown": "5"
+  "name": "OPGen",
+  "description": "Alt Generator",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main 8"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
